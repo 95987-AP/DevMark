@@ -54,7 +54,7 @@ DevMark is your development bookmark. It tracks where you are, what you did, and
 ## Install
 
 ```bash
-git clone https://github.com/yourusername/devmark.git
+git clone https://github.com/95987-AP/DevMark.git
 cd devmark
 pip install -e .
 ```
@@ -128,7 +128,7 @@ Stored in `~/.devmark/` (SQLite database)
 
 ## Part of the Vibe Coder Toolkit
 
-Works great with [Fridgprompt](https://github.com/yourusername/fridgprompt) - save your prompts, bookmark your projects.
+Works great with [Fridgprompt](https://github.com/95987-AP/Fridgprompt) - save your prompts, bookmark your projects.
 
 ---
 
